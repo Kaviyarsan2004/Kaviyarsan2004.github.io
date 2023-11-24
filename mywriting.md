@@ -5,4 +5,4 @@ author : kaviyarasan
 author_profile : true
 ---
 
-Hi guys this is my wriring 
+Hi guys, this is my writing 
