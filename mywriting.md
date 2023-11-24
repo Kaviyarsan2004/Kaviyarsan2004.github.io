@@ -1,6 +1,6 @@
 ---
 title: "my Writing"
-layout: archive
+layout: article_work
 author : kaviyarasan
 author_profile : true
 ---
