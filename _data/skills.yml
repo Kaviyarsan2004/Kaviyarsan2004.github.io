@@ -1,15 +1,37 @@
 technical:
- - title: CSS and SCSS
+ - title: CSS
    level: Intermediate
  - title: HTML5
    level: Intermediate
  - title: JavaScrpt
+   level: Intermediate
+ - title: Phyton
    level: Advanced
- - title: ReactJS
+ - title: C
    level: Advanced
+ - title: Phyton
+   level: Advanced
+ - title: VHDL
+   level: Intermediate
 
 soft:
  - title: Writing
    level: Intermediate
  - title: Leadership
    level: Intermediate
+
+software:
+ - title: Windows
+   level: Advanced
+ - title: Ubundu
+   level: Advanced
+ - title: Visual Studios code
+   level: Advanced
+ - title: Auto CAD
+   level: Intermediate
+ - title: Excel
+   level: Advanced
+ - title: MS suites
+   level: Advanced
+ - title: Canva
+   level: Advanced

@@ -5,7 +5,8 @@ kaviyarasan:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kavi580580@email.com"
-    - label: "Website"
+      url: "mailto:kavi580580@email.com"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://www.mywebsite.com"
+      url: "www.linkedin.com/in/kaviyarasan-ganesamoorthy/"
+      

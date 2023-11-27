@@ -8,4 +8,4 @@ author_profile : true
 ---
 ![kaviyrasan](/assets/images/IMG_20230607_120532.jpg){:.avatar} 
 # Hi there this is kaviyarasan
- if you wanna see my works go to [My work](/mywork)
+  if you wanna know about myself go to [About me](/about)
