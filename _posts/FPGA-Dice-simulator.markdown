@@ -1,13 +1,13 @@
 ---
 layout: posts
-title:  "Welcome to Jekyll!"
+title:  "FPGA dice simulator"
 date:   2023-11-22 22:33:38 +0000
 categories: work
-tags : education
+tags : VHDL
 description : This is about my education
 header :
-  overlay_image : https://media.istockphoto.com/id/1477190540/photo/stack-of-books-on-table-at-library.jpg?s=612x612&w=0&k=20&c=O7F0PI06W5cqbpezQTB5vHH6NfpoJelUrPkZHowXcuI=
-  teaser : https://media.istockphoto.com/id/1477190540/photo/stack-of-books-on-table-at-library.jpg?s=612x612&w=0&k=20&c=O7F0PI06W5cqbpezQTB5vHH6NfpoJelUrPkZHowXcuI=
+  overlay_image : https://cdn.britannica.com/09/198609-131-0FECF4D1/insides-desktop-computer.jpg?w=600&q=60
+  teaser : https://cdn.britannica.com/09/198609-131-0FECF4D1/insides-desktop-computer.jpg?w=600&q=60
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
