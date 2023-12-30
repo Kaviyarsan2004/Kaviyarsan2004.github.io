@@ -7,5 +7,5 @@ author : kaviyarasan
 author_profile : true
 ---
 ![kaviyrasan](/assets/images/IMG_20230607_120532.jpg){:.avatar} 
-# Hi there this is kaviyarasan
-  if you wanna know about myself go to [About me](/about)
+# Hi! I'm Kaviyarasan Ganesamoorthy
+  I am a self-taught programmer, painter. Check out some of my favorite  projects below or go to [**My Work**](/mywork)  to see a categorized list.
