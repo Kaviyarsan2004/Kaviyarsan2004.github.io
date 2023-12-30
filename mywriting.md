@@ -1,5 +1,5 @@
 ---
-title: "my Writing"
+title: "My certifications"
 layout: article_work
 author : kaviyarasan
 author_profile : true
