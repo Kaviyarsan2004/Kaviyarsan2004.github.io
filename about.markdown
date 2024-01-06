@@ -6,7 +6,7 @@ author : kaviyarasan
 author_profile : true
 ---
 
-# Journey through Bytes: The Life of Kaviyarasan Ganesamoorthy
+# Journey through Bytes: The Life of Myself
    I'm Kaviyarasan Ganesamoorthy, a third-year computer engineering student at Binghamton University, NY. My journey began in the vibrant landscape of India, where my fascination with technology took root at an early age.
 
 I kickstarted my academic voyage at PSG Institute of Advanced Studies in India, where the first two years fueled my passion for programming and laid the groundwork for what was to come. Seeking new challenges and opportunities, I made a pivotal decision to transfer to Binghamton University.

@@ -28,6 +28,16 @@ Research encompassed exploring various online Theremin circuit designs, incorpor
 - **Implementation:** Translated the simulated design onto a breadboard, adjusting for proper waveform generation.
 - **Testing:** Utilized oscilloscope measurements to validate frequency and amplitude alterations via photoresistors.
 
+
+### Visuals and Demonstrations
+ 
+![Circuit_design_on_LTspice](/assets/images/LTSpicedesign.jpeg)
+![Simulation_on_LTspice](/assets/images/LTSpice_simulation.jpeg)
+![circuit_design](/assets/images/circuit.jpeg)
+![simulation](/assets/images/normal_SS.jpeg)
+![simulation](/assets/images/Changing_SS.jpeg)
+![simulation](/assets/images/AmpChang_SS.jpeg)
+
 ### Results and Discussion
 The assembled circuit effectively produced a basic Theremin output. Photoresistors successfully controlled frequency and amplitude, visibly altering oscilloscope waveforms. However, limitations in op-amp voltage affected volume levels, and slight oscilloscope lag resulted in wavering measurements.
 
@@ -41,3 +51,4 @@ Our group's successful design and implementation of the Theremin circuit undersc
 - **Research and Application:** Conducted thorough research to understand various Theremin circuit designs, implementing findings to create a functional instrument.
 
 This project highlighted the importance of these skills in translating theoretical concepts into real-world applications, emphasizing the significance of a systematic approach and collaborative effort in engineering projects.
+
