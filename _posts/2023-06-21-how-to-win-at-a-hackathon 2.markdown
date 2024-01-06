@@ -6,7 +6,7 @@ tagline: "Connecting the 'Dots'"
 tags: [hackathon]
 author_profile: true
 author: kaviyarasan
-categories: [article]
+categories: work
 header:
     overlay_image: https://images.unsplash.com/photo-1512928210967-3dced5ba507b
     teaser: https://images.unsplash.com/photo-1512928210967-3dced5ba507b
