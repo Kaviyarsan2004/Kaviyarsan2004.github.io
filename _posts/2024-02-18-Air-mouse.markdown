@@ -1,0 +1,90 @@
+---
+layout: posts
+title:  "Air Mouse"
+date:   2024-02-18 16:13:27 -0500
+tags: Python project
+author_profile: true
+author: kaviyarasan
+categories: work
+highlight_home: true
+tagline: "*HackBU Hackathon Winning Project* - Control your computer with hand gestures. Click, scroll, and navigate effortlessly. No touch, just motion. Enhance productivity and hygiene seamlessly."
+header:
+  overlay_image: https://warwickwealth.com/wp-content/uploads/2023/07/iStock-1435014643-1536x822.jpg
+  teaser: https://innovationatwork.ieee.org/wp-content/uploads/2021/02/bigstock-Human-Brain-d-Illustration-D-288314977_1024X684.png
+  
+---
+
+## Inspiration
+The inspiration behind Air Mouse stemmed from the team's aspiration to create a more intuitive and natural human-computer interaction. The team drew inspiration from existing gesture recognition technologies in products like Apple Pro Vision, Meta Quest, and VR headsets.
+
+## Project Overview
+Air Mouse is a human interface device leveraging a computer's camera to capture hand gestures, enabling the control of the mouse cursor and other elements of the user interface. The project employs a server-client architecture, with the server written in Python using TensorFlow and MediaPipe, and the client written in React.js. The server captures the video feed from the camera, processes it with TensorFlow and MediaPipe, providing a skeleton mesh of the hand.
+
+<video width="320" height="240" controls>
+  <source src="/assets/video/air_mouse.mp4" type="mp4">
+</video>
+
+![Nothing](/assets/images/Nothing.jpeg)
+*Nothing*
+
+![Move Pointer](/assets/images/Curserpoint.jpeg)
+*Move Pointer*
+
+![Scroll UP](/assets/images/UP.jpeg)
+*Scroll Up*
+
+![Scroll Down](/assets/images/Down.jpeg)
+*Scroll Down*
+
+## Source Code
+Check out my project [here](https://devpost.com/software/air-mouse#updates)
+
+Find the source code [here](https://github.com/Kaviyarsan2004/Air_mouse)
+
+## Tech Stack
+- **Server:**
+  - Language: Python
+  - Libraries: TensorFlow, MediaPipe
+- **Client:**
+  - Framework: React.js
+  - Web Technologies: HTML, CSS, JavaScript
+- **Other Technologies:**
+  - Computer Vision (OpenCV)
+  - Version Control: Git
+
+## Challenges Faced
+One of the main challenges encountered by the Air Mouse team was effectively translating hand gestures into precise cursor actions. The team addressed this complexity by implementing a set of rules, including Euclidean distance calculations, quad area analysis, and processing spatial data derived from 2D coordinates provided by the hand's skeleton mesh. To enhance the user experience, the team implemented exponential smoothing to reduce noise and jitter while maintaining cursor responsiveness.
+
+## Accomplishments
+The team takes pride in successfully implementing a system capable of accurately tracking hand movements and translating them into cursor actions. This accomplishment not only enhances user experience but also contributes to a cleaner, touch-free computing environment.
+
+## Learnings
+The project provided valuable learning experiences in gesture recognition technology, TensorFlow, MediaPipe, React.js, and designing a server-client architecture. The team gained insights into dealing with the challenges of translating complex hand gestures into precise cursor actions.
+
+## Team Credits
+- Vivek Raj
+- Vaishnavi Gayke
+- Shyam Kannan
+- Myself
+
+## HackBU Details
+- **Hackathon:** HackBU
+- **Award:** Best Technical Hack
+
+## What's Next for Air Mouse
+- Refine gesture recognition technology
+- Expand the range of recognized gestures
+- Explore integration with other systems and devices
+
+## Built With
+- Computer Vision
+- CSS
+- Flask (for server)
+- Git (Version Control)
+- HTML
+- JavaScript
+- MediaPipe
+- OpenCV
+- Python (for server)
+- React.js
+- TensorFlow

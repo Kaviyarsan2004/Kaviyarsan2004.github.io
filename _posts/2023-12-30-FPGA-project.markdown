@@ -16,7 +16,7 @@ header:
 
 ## Overview
 Implemented a basic calculator on a Basys 3 FPGA board using VHDL, integrating a seven-segment display driver, hex-to-seven-segment decoder, and a multiplier. Leveraged FPGA hardware for hands-on experience in digital design and implementation.
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 ## Achievements and Contributions
 #### Design and Development:
 - **Developed VHDL modules for**
