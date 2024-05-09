@@ -20,9 +20,8 @@ The inspiration behind Air Mouse stemmed from the team's aspiration to create a 
 ## Project Overview
 Air Mouse is a human interface device leveraging a computer's camera to capture hand gestures, enabling the control of the mouse cursor and other elements of the user interface. The project employs a server-client architecture, with the server written in Python using TensorFlow and MediaPipe, and the client written in React.js. The server captures the video feed from the camera, processes it with TensorFlow and MediaPipe, providing a skeleton mesh of the hand.
 
-<video width="320" height="240" controls>
-  <source src="/assets/video/air_mouse.mp4" type="mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KNLYQGf86Ns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ![Nothing](/assets/images/Nothing.jpeg)
 *Nothing*

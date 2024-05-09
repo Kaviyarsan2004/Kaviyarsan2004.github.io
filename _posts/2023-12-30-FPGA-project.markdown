@@ -2,7 +2,7 @@
 layout: posts
 title:  "FPGA-Based Calculator with Basys 3 Board"
 date:   2023-07-01 16:13:27 -0500
-tags: VHDL
+tags: FPGA
 author_profile: true
 author: kaviyarasan
 categories: work
